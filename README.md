@@ -301,3 +301,12 @@ To my eyes and with my parameter tweaking, Laplace seems the most suited for edg
     ```
 
     Say yes to any prompts the next time you save a Python file
+
+- Exported using `grip`:
+
+    ```shell
+    pip install grip
+    grip './README.md'
+    ```
+
+    Save as PDF using browser print.
